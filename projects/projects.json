@@ -83,7 +83,7 @@
   {
     "name": "Motivational Lines/Quote Generator",
     "desc": "It is a simple web app that generates random motivational lines/quotes. It is built using HTML, CSS, and JavaScript.",
-    "image": "mq",
+    "image": "motivation",
     "category": "Javascript",
     "links": {
       "view": "https://js-spreadingmotivation-yg.vercel.app/",
