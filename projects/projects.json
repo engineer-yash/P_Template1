@@ -4,11 +4,7 @@
     "name": "Spectrom - 2023",
     "desc": "The state's largest technical event, Spectrom-2023, is put on by OM Education Campus (OEC) in Junagadh. Both technical and non-technical students can showcase their talents at the national level.",
     "image": "Spectrom-23",
-    "category": "Full Stack",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
+    "category": "Full Stack"
   },
   {
     "name": "Flipkart MERN",
