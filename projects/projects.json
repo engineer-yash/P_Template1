@@ -31,73 +31,73 @@
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
-    "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
-    }
-  },
-  {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
-    }
-  },
-  {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
-    }
-  },
-  {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
-    }
-  },
-  {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
-    "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
-    }
-  },
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
-    }
-  },
-  {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "name": "DecorVilla",
+    "desc": "DecorVilla is a website that provides you with the best event decor services.",
+    "image": "decorvilla",
+    "category": "PHP",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": "https://github.com/engineer-yash/decorvilla"
+    }
+  },
+  {
+    "name": "Om Education Brochure",
+    "desc": "Om Education Campus is a leading educational institute in Junagadh, Gujarat. This is a brochure webpage for the same.",
+    "image": "om_brochure",
+    "category": "Web Page",
+    "links": {
+      "view": "https://omeducation.edu.in/brochure",
+      "code": "#"
+    }
+  },
+  {
+    "name": "NCIRC - 2023",
+    "desc": "NCIRC-2023 is a National Conference on Innovative Research in Computing. It is organized by Om Education Campus (OEC) in Junagadh.",
+    "image": "om_ncirc",
+    "category": "Web Page",
+    "links": {
+      "view": "http://omcollege.edu.in/NCIRC_2023",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Spectrom Host Panel",
+    "desc": "Spectrom Host Panel is a web application that helps the Spectrom-2023 event organizers to manage their event.",
+    "image": "spectrom-host",
+    "category": "Panel",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "QR Code Scanner",
+    "desc": "It is used in Spectrom-2023 for helping out of students gate entry and attendance of event.",
+    "image": "spectrom-qr",
+    "category": "QR Code Scanner",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Motivational Lines/Quote Generator",
+    "desc": "It is a simple web app that generates random motivational lines/quotes. It is built using HTML, CSS, and JavaScript.",
+    "image": "mq",
+    "category": "Javascript",
+    "links": {
+      "view": "https://js-spreadingmotivation-yg.vercel.app/",
+      "code": "https://github.com/engineer-yash/javascript/tree/main/SpreadingMotivation"
+    }
+  },
+  {
+    "name": "Stone/Paper/Scissor Game",
+    "desc": "It is a Stone Paper Scissor game built using HTML, CSS, and JavaScript.",
+    "image": "s-p",
+    "category": "Javascript",
+    "links": {
+      "view": "https://js-stone-paper-scissor-yg.vercel.app",
+      "code": "https://github.com/engineer-yash/javascript/tree/main/Stone-Paper-Scissor"
     }
   },
   {
