@@ -11,23 +11,23 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "name": "Dairy Farm Management System",
+    "desc": "Smart India Hackathon 2023 Project = It is a web application that helps dairy farms to manage their daily business activities. It is a user-friendly application that helps dairy farms to manage their daily business activities.",
+    "image": "sih-22",
+    "category": "Full Stack",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "#",
+      "code": "https://github.com/engineer-yash/Smart-India-Hackathon-2022.git"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "GamingForNews - Blog",
+    "desc": "Love Gaming? GamingForNews is for Free Downloads, Information, Suggestions, Updates, and more regarding games.",
+    "image": "gamingfornews",
+    "category": "Blog",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://gamingfornews.blogspot.com/",
+      "code": "#"
     }
   },
   {
